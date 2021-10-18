@@ -1,0 +1,30 @@
+* {
+  font-family: Merriweather;
+}
+body {
+  background-color: LightSteelBlue;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: LightSteelBlue;
+  background-color: Magenta;
+}
+h2 {
+  color: Magenta;
+  text-align: center;
+}
+table {
+  border: 3px solid black;
+}
+.table th {
+  color: black;
+  background-color: #D6EEEE;
+}
+.table td {
+  border-bottom: 1px solid GreenYellow;
+}
+tr:hover {
+  background-color: #D6EEEE;
+  }
+  
